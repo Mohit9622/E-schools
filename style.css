@@ -1,0 +1,75 @@
+body{
+    font-family: Poppins;
+}
+.container{
+    padding: 100px;
+}
+.sign-in-button{
+background-color: #21B573;
+color: azure;
+padding:12px, 28px, 12px, 28px; 
+border-radius: 20px;
+}
+.left{
+font-size: 48px;
+font-weight: 700;
+line-height: 70px;
+}
+.top-banner{
+    background-color:#F0FFF0    ;
+}
+.other-button{
+    background-color: #21B573;
+color: azure;
+Width:153px;
+Height:43px;
+border-radius: 30px;
+}
+.learn{
+    color:#FD511A;
+}
+.top-banner-left{
+    padding: 20px;
+}
+.shedule{
+    color:#21B573;
+}
+.mid-banner img{
+Width:66px;
+Height:85px;
+}
+.learn-div{
+    background-color:#F8FFFB;
+    color:black;
+}
+.mid-type{
+margin:30px;
+border:none;
+box-shadow:5px 5px 10px lightgray;
+}
+.card{
+    border:none;
+    box-shadow:5px 5px 10px lightgray;
+}
+.heading{
+    text-align: center;
+}
+.card-footer{
+    border-top:none;
+}
+.testimonial img{
+    Width:120px;
+Height:120px;
+float:right;
+}
+.down-footer{
+    text-align: center;
+    padding-top: 40px;
+}
+.bottom-banner{
+    background-color:#282531;
+    color:#F0FFF0;
+}
+.row-div{
+    padding:40px 40px;
+}
